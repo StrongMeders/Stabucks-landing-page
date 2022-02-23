@@ -1,2 +1,2 @@
-# landing-page-2
+# Stabucks-landing-page
 my second landing page in Git
